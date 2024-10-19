@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Analog Clock",
+    "version": "1.0",
+    "description": "A digital clock showing the time until the end of the year.",
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "icons": {
+        "2": "2.png"
+    }
+}
